@@ -1,0 +1,19 @@
+.menu {
+    font-size:20px;
+    color:white;
+    text-decoration:none;
+}
+
+.btn{
+    background-color:black;
+     border-radius:5px;
+     padding:4px 20px;
+     
+}
+
+.btn:hover{
+    background-color: green;
+}
+.check{
+    font-size:20px;
+}
