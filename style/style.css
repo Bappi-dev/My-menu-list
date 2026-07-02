@@ -17,3 +17,17 @@
 .check{
     font-size:20px;
 }
+
+.menu-item {
+    background-color:aquamarine;
+    padding: 10px;
+    border-radius:10px;
+    margin:10px
+}
+.img{
+    border-radius:20px
+}
+.item-Description{
+    font-size:20px;
+    font-family: 'Courier New', Courier, monospace;
+}
